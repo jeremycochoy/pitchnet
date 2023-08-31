@@ -1,7 +1,7 @@
 # PitchNet
 Neural network for humain voice pitch analysis.
 
-Code from the paper (PitchNet: A Fully Convolutional Neural Network for Pitch Estimation)[https://arxiv.org/abs/2308.07170]
+Code from the paper [PitchNet: A Fully Convolutional Neural Network for Pitch Estimation](https://arxiv.org/abs/2308.07170)
 
 ## Build datasets
 
